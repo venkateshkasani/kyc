@@ -461,11 +461,11 @@ export default function Midsection() {
             <p className='text-xl font-bold'>FESTS</p>
             <span className='flex items-center gap-1 rounded-full text-black bg-gray-200 px-5 py-1'>Reviews <Star className='h-5 w-5 text-green-500' /> <ChevronRight className='h-5 w-5' /></span>
                 </div>
-                <p className='text-lg text-stone-800/80'>VIT does not have a strict uniform policy. However, students are expected to dress decently and appropriately for academica and social settings</p>
+                <p className='text-lg text-stone-800/80 pb-4'>VIT does not have a strict uniform policy. However, students are expected to dress decently and appropriately for academica and social settings</p>
                 <img src="/img5.1.png" className='w-full h-[70vh] rounded-2xl' />
                 <div className="flex gap-4 my-5">
-                <img src="/img5.2.png" className='w-[33%] md:w-[40%] h-[70vh] md:h-[50vh] rounded-2xl' />
-                <img src="/img5.3.png" className='w-[33%] md:w-[40%] h-[70vh] md:h-[50vh] rounded-2xl' />
+                <img src="/img5.2.png" className='w-[33%] md:w-[40%] h-[70vh] rounded-2xl' />
+                <img src="/img5.3.png" className='w-[33%] md:w-[40%] h-[70vh] rounded-2xl' />
                 <span className='relative max-h-[70vh] w-1/4'>
                   <img src='img1.2.png' className='w-full h-full' />
                   <div className='absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2'>

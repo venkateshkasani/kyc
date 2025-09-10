@@ -15,7 +15,7 @@ export default function Footer() {
           </div>
        </div>
         <div className="p-5 order-1 md:order-2">
-          <p className='text-2xl md:text-5xl font-bold text-gray-200'>Important Links:</p>
+          <p className='text-2xl md:text-5xl font-bold text-gray-200 my-5'>Important Links:</p>
           <div className="flex flex-col text-gray-200">
             <p>About us</p>
             <p>Careers</p>
