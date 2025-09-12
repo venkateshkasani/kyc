@@ -14,7 +14,7 @@ export default function ProfileCard({ image, name, degree, location, expertise }
         <img
           src={image}
           alt={name}
-          className="w-full h-full object-top"
+          className="w-full h-full object-cover"
         />
       </div>
 

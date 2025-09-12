@@ -29,18 +29,18 @@ function App() {
             image={'/profile.png'}
           />
           <ProfileCard
-            name={"Karan Deb"}
-            degree={"Computer Science"}
-            location={"Amity, Delhi"}
-            expertise={"NEET"}
-            image={'/profile.png'}
+            name={"Srinivas Mishra"}
+            degree={"Electrical Engineering"}
+            location={"IIT, Delhi"}
+            expertise={"M.Tech"}
+            image={'/prof2.jpg'}
           />
           <ProfileCard
-            name={"Karan Deb"}
+            name={"Vinod Kumar"}
             degree={"Computer Science"}
-            location={"Amity, Delhi"}
-            expertise={"NEET"}
-            image={'/profile.png'}
+            location={"BITS, Hyderabad"}
+            expertise={"B.Tech"}
+            image={'/prof3.jpg'}
           />
           </div>
         </div>
